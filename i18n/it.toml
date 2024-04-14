@@ -1,0 +1,34 @@
+[home]
+    other = "Home"
+[posts]
+    other = "Archivio"
+[about]
+    other = "Chi siamo"
+[latestArticles]
+    other = "Articoli"
+[moreArticles]
+    other = "Di Più"
+[viewArchive]
+    other ="Archivio"
+[socialMedia]
+    other = "Social"
+[related]
+    other = "Related"
+[pagination]
+    other = "Pagination"
+[of]
+    other = "of"
+[allTags]
+    other = "Tutti i Tags"
+[author]
+    other = "Autore"
+[postDate]
+    other = "Pubblicato il"
+[copyright]
+    other = "Copyright"
+[licenses]
+    other = "Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
+[search]
+    other = "Cerca"
+[searchPlaceholder]
+    other = "Titolo o Descrizione..."
