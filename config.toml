@@ -8,5 +8,6 @@ theme = 'hugo-theme-itheme'
 paginate = 3
 [params]
     defaultCover = 'https://i.pinimg.com/originals/12/aa/1e/12aa1e625e078c64b02680b69be8d16a.jpg'
+    email = 'info@leggendiario.fun'
     ShowMore = false
     ShowRSS = false
