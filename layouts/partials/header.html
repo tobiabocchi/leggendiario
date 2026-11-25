@@ -5,7 +5,7 @@
         <a href="{{ "" | relURL }} " class="nav-title">{{ .Site.Title }}</a>
         <div class="nav-menu">
           <div class="nav-item-wrapper">
-            <a href="mailto:info@leggendiario.fun" class="nav-item-content">✉️ Contattaci</a>
+            <a href="mailto:{{ site.Params.email }}" class="nav-item-content">✉️ Contattaci</a>
           </div>
           <div class="nav-item-wrapper">
             <a href="{{ "posts" | relURL }} " class="nav-item-content">{{ i18n "posts" }}</a>
